@@ -1,13 +1,8 @@
 body{
     background-color: black;
     }
-#rectangle {width: 100%;
-    height: 200px;
-    background: #848484}
 #name {text-align:center;
-    color: black;}
-#penny { height: 175px;
-    width: 230px;}
+    color: white;}
 #link {text-align:center}
 #table {color: #b0a2c0;
 empty-cells: show;
